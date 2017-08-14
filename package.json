@@ -1,0 +1,16 @@
+{
+  "name": "Trader.ws.alfa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_tf.js",
+  "dependencies": {
+    "csvtojson": "^1.1.7",
+    "request": "^2.79.0",
+    "ws": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "...Funky!?"
+}
